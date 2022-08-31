@@ -1,0 +1,11 @@
+###
+
+#NOMBRE DEL CALCULO
+MoM Results1 = 
+    #NOMBRE DE VARAIBLE
+    var a = SUM(DATA[WAP8])
+    #NOMBRE DE VARAIBLE2
+    var b = SUM(DATA[WAP7])
+    RETURN
+    #DAX
+    DIVIDE(a,b,0) - 1
