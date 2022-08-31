@@ -1,0 +1,4 @@
+#NOMBRE
+WAP2 = 
+       #DAX       CALCULO
+      IFERROR (DATA[PV*VT_4] / [VentaTotal_3],0)
